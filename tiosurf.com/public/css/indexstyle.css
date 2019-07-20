@@ -1,0 +1,29 @@
+.skin-blue .main-header .navbar {
+    height: 90px;
+    background-color: #CBEFEE;
+
+}
+
+.skin-blue .main-header .navbar .nav>li>a {
+    color: black;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+
+.btn-primary {
+    border-radius: 50px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    margin-top: 19px;
+}
+
+.navbar-brand {
+    margin-top: -10px;
+}
